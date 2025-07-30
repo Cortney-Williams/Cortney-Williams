@@ -2,7 +2,7 @@
 [LinkedIn] [www.linkedin.com/in/cortney-williams-715163347]
 
 Currently I am analyzing business data to identify trends and reduce high product return rates. My experience in analyzing problem trends and providing solutions to clients have helped me develop my problem solving, time-management, analytical, and communication skills. 
-In 2024, I enrolled in the TripleTen 4-month Business Intelligence Analytics program. The program covered data storage and processeing (SQL), data visualizations (Tableau), PowerBI and more. It also involved practical projects.
+In 2024, I enrolled in the TripleTen Business Intelligence Analytics program. The program covered data storage and processeing (SQL), data visualizations (Tableau), PowerBI and more. It also involved practical projects.
 
 Some facts about me:
 - I enjoy yoga, coffee, and a self-help books
